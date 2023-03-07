@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/somyarawatportfolio/static/css/main.aa6bd331.css",
+    "main.js": "/somyarawatportfolio/static/js/main.7f62d9ec.js",
+    "static/media/logo_sub.png": "/somyarawatportfolio/static/media/logo_sub.e8b638bf178e1790717f.png",
+    "static/media/helvetica-neu.ttf": "/somyarawatportfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/somyarawatportfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/somyarawatportfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/somyarawatportfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/somyarawatportfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/somyarawatportfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/somyarawatportfolio/index.html",
+    "main.aa6bd331.css.map": "/somyarawatportfolio/static/css/main.aa6bd331.css.map",
+    "main.7f62d9ec.js.map": "/somyarawatportfolio/static/js/main.7f62d9ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa6bd331.css",
+    "static/js/main.7f62d9ec.js"
+  ]
+}
